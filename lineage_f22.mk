@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2024 The LineageOS Project
+# Copyright (C) 2025 The LineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -23,6 +23,6 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung-ss
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="f22ins-user 13 TP1A.220624.014 E225FXXSADXE1 release-keys"
+    PRIVATE_BUILD_DESC="f22ins-user 13 TP1A.220624.014 E225FXXSBDXK1 release-keys"
 
-BUILD_FINGERPRINT := samsung/f22ins/f22:13/TP1A.220624.014/E225FXXSADXE1:user/release-keys
+BUILD_FINGERPRINT := samsung/f22ins/f22:13/TP1A.220624.014/E225FXXSBDXK1:user/release-keys
